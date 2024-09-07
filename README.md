@@ -28,7 +28,7 @@
 
 ## 대제목2 : Robot/자동화설비 제어 SW
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f0d09fab-f760-445a-969a-74459f3b88cd/09f42021-3f29-434f-8b79-8d2718c07f39/image.png)
+<img width="1015" alt="스크린샷 2024-09-08 오전 12 18 08" src="https://github.com/user-attachments/assets/bef7de3e-dda1-4fc9-a01a-873d617f7323">
 
 | 여기서 말하는 로봇 | 산업용 로봇 특히 6축 다관절 로봇 |
 | --- | --- |
@@ -42,16 +42,16 @@
 |  | 원격 유지 보수용, 웹기반 개발 |
 - 로봇 시뮬레이터 과제
     
-    ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f0d09fab-f760-445a-969a-74459f3b88cd/99a6ec97-23c0-47fe-b092-eccb4b20fc34/image.png)
+    <img width="1198" alt="스크린샷 2024-09-08 오전 12 24 18" src="https://github.com/user-attachments/assets/0774e434-7960-4d45-a324-069b7fe49099">
     
 - 로봇 관리 시스템
     
-    ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f0d09fab-f760-445a-969a-74459f3b88cd/5aaf71e8-baa0-4be1-9f3a-86316da461e6/image.png)
+    <img width="875" alt="스크린샷 2024-09-08 오전 12 25 18" src="https://github.com/user-attachments/assets/a6e05df3-bb2e-48be-ba07-7776424922a0">
     
 
 ## 대제목3 : 자율주행 / 물류 제어 SW
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f0d09fab-f760-445a-969a-74459f3b88cd/3d5c6d52-3532-4cc2-94b2-1050ec67b8b0/image.png)
+<img width="1027" alt="스크린샷 2024-09-08 오전 12 34 15" src="https://github.com/user-attachments/assets/e2513afd-512b-4479-97aa-099dca18dd1f">
 
 | 어떤 자율주행? | 실내 자율주행 |
 | --- | --- |
@@ -69,7 +69,7 @@
 
 # 자격요건 및 우대사항
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f0d09fab-f760-445a-969a-74459f3b88cd/7ad0e849-36ef-4f72-97e6-a4ff69907e7a/image.png)
+<img width="1054" alt="스크린샷 2024-09-08 오전 12 35 15" src="https://github.com/user-attachments/assets/ff3e65b6-ae2b-4096-94dd-bbdfe9fbc6a8">
 
 - 프로젝트 경험이 좋다고 생각
 - “나 많이 해봤다”가 아니라 각 상황에 맞는 적합한 알고리즘을 찾아가고 적용하는 과정으로 문제 해결 능력을 기르는 것이 중요
